@@ -1,0 +1,2 @@
+- Faster heal regen
+- Stop damage on low hp
